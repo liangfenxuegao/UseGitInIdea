@@ -5,5 +5,6 @@ public class hello {
         System.out.println("你好Git！");
         System.out.println("更新一");
         System.out.println("创建了development分支");
+        System.out.println("master分支认为哈密瓜好吃");
     }
 }
